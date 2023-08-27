@@ -1,0 +1,1 @@
+If you encounter that your laptop backlight doesn't light up after waking up due to lid opening or laptop goes back to sleep again, this ACPI patch may help with that.
